@@ -4,8 +4,6 @@ Project Modbus Server
 - Docker
 - Desktop Monitoring
 
-Note: ONPROGRESS
-
 Struktur folder setelah diinstall
 ```
 .
